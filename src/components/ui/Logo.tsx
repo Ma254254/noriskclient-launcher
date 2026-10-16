@@ -24,8 +24,8 @@ export function Logo({ size = "md", className, onClick }: LogoProps) {
       onClick={onClick}
     >
       <img
-        src="/logo.png"
-        alt="NoRisk Logo"
+        src="/goat-logo.png"
+        alt="GOAT CLIENT Logo"
         className="w-full h-full object-contain"
       />
     </div>
